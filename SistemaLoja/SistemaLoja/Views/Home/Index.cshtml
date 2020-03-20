@@ -1,0 +1,89 @@
+﻿@{
+    ViewBag.Title = "Sistema Loja";
+}
+
+
+<head>
+    <link rel="stylesheet" href="~/Content/carousel.css"  />
+    
+
+</head>
+
+<body>
+    <!-- Inicio do Carroseu -->
+    <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+        <!-- Indicators -->
+        <ol class="carousel-indicators">
+            <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+            <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+            <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+        </ol>
+
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner" role="listbox">
+            <div class="item active">
+                <img src="~/Imagens/01.jpg" alt="Técnologia">
+                <div class="carousel-caption">
+                    <h2>Sistemas com ASP NET</h2>
+                    <p><small>Sistema usando o modelo MVC e banco de dados SQL</small></p>
+                </div>
+            </div>
+            <div class="item">
+                <img src="~/Imagens/02.jpg" alt="Técnologia">
+                <div class="carousel-caption">
+                    <h2>Sistemas com ASP NET</h2>
+                    <p><small>Sistema responsivo</small></p>
+                </div>
+            </div>
+
+            <div class="item">
+                <img src="~/Imagens/03.jpg" alt="Técnologia">
+                <div class="carousel-caption">
+                    <h2>Sistemas com ASP NET</h2>
+                    <p><small>Sistema de Pedidos</small></p>
+                </div>
+            </div>
+            ...
+        </div>
+
+        <!-- Controls -->
+        <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+            <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+            <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+        </a>
+    </div>
+    <!-- Fim do Carrossel -->
+    
+    
+    <!-- Inicio do controle de marketing -->
+    <div class="container marketing">
+
+        <!-- Three columns of text below the carousel -->
+        <div class="row">
+            <div class="col-lg-4">
+                <img class="img-circle" src="~/Imagens/Anderon.jpg" width="140" height="140">
+                <h2>Anderson</h2>
+                <p>Há mais de 14 anos na área da informática, comecei como técnico de informática e pouco depois passei a estudar Java, onde li o livro "Java Como programar", mas logo notei que o meu caminho era para .net. Comecei com o Livro "Use a cabeça! C#", depois comprei outros livros, fiz vários cursos e a cada dia cresço no mundo ASP. NET...</p>
+                <p><a class="btn btn-default" href="#" role="button">Mais Detalhes &raquo;</a></p>
+            </div><!-- /.col-lg-4 -->
+            <div class="col-lg-4">
+                <img class="img-circle" src="~/Imagens/tec1.png" alt="Generic placeholder image" width="140" height="140">
+                <h2>Sistema ASP NET</h2>
+                <p>Projeto do sistema de ordem de pedidos criado em ASP. NET com Microsoft SQL Server e MVC, este programa tem sistema automatizado na criação do banco de dados com ajuda do Framework...</p>
+                <p><a class="btn btn-default" href="#" role="button">Mais Detalhes &raquo;</a></p>
+            </div><!-- /.col-lg-4 -->
+            <div class="col-lg-4">
+                <img class="img-circle" src="~/Imagens/tec2.png" alt="Generic placeholder image" width="140" height="140">
+                <h2>Publicação com ASP</h2>
+                <p>Neste projeto foi publicado uma aplicação em asp net com sql, usamos um servidor gratuito para podermos hospedar, existem hoje em dia vários servidores com este tipo de suporte no mercado.</p>
+                <p><a class="btn btn-default" href="#" role="button">Mais Detalhes &raquo;</a></p>
+            </div><!-- /.col-lg-4 -->
+        </div><!-- /.row -->
+    </div>
+
+</body>
+

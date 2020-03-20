@@ -1,0 +1,131 @@
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja.Tests\bin\Debug\SistemaLoja.Tests.dll.config
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja.Tests\bin\Debug\SistemaLoja.Tests.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja.Tests\bin\Debug\SistemaLoja.Tests.pdb
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja.Tests\bin\Debug\SistemaLoja.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja.Tests\bin\Debug\Owin.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja.Tests\bin\Debug\SistemaLoja.pdb
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja.Tests\bin\Debug\pt-BR\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja.Tests\obj\Debug\SistemaLoja.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja.Tests\obj\Debug\SistemaLoja.Tests.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja.Tests\obj\Debug\SistemaLoja.Tests.pdb
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja.Tests\bin\Debug\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja.Tests\bin\Debug\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ander\source\repos\Sistema Inicial Mod 03\SistemaLoja\SistemaLoja.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\ander\source\repos\Sistema Inicial Mod 03\SistemaLoja\SistemaLoja.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ander\source\repos\Sistema Inicial Mod 03\SistemaLoja\SistemaLoja.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ander\source\repos\Sistema Inicial Mod 03\SistemaLoja\SistemaLoja.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ander\source\repos\Sistema Inicial Mod 03\SistemaLoja\SistemaLoja.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ander\source\repos\Sistema Inicial Mod 03\SistemaLoja\SistemaLoja.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ander\source\repos\Sistema Inicial Mod 03\SistemaLoja\SistemaLoja.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ander\source\repos\Sistema Inicial Mod 03\SistemaLoja\SistemaLoja.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\ander\source\repos\Sistema Inicial Mod 03\SistemaLoja\SistemaLoja.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\ander\source\repos\Sistema Inicial Mod 03\SistemaLoja\SistemaLoja.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\ander\source\repos\Sistema Inicial Mod 03\SistemaLoja\SistemaLoja.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\ander\source\repos\Sistema Inicial Mod 03\SistemaLoja\SistemaLoja.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\ander\source\repos\Sistema Inicial Mod 03\SistemaLoja\SistemaLoja.Tests\bin\Debug\SistemaLoja.Tests.dll.config
+C:\Users\ander\source\repos\Sistema Inicial Mod 03\SistemaLoja\SistemaLoja.Tests\bin\Debug\SistemaLoja.Tests.dll
+C:\Users\ander\source\repos\Sistema Inicial Mod 03\SistemaLoja\SistemaLoja.Tests\bin\Debug\SistemaLoja.Tests.pdb
+C:\Users\ander\source\repos\Sistema Inicial Mod 03\SistemaLoja\SistemaLoja.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\ander\source\repos\Sistema Inicial Mod 03\SistemaLoja\SistemaLoja.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\ander\source\repos\Sistema Inicial Mod 03\SistemaLoja\SistemaLoja.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ander\source\repos\Sistema Inicial Mod 03\SistemaLoja\SistemaLoja.Tests\bin\Debug\SistemaLoja.dll
+C:\Users\ander\source\repos\Sistema Inicial Mod 03\SistemaLoja\SistemaLoja.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\ander\source\repos\Sistema Inicial Mod 03\SistemaLoja\SistemaLoja.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\ander\source\repos\Sistema Inicial Mod 03\SistemaLoja\SistemaLoja.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\ander\source\repos\Sistema Inicial Mod 03\SistemaLoja\SistemaLoja.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\ander\source\repos\Sistema Inicial Mod 03\SistemaLoja\SistemaLoja.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\ander\source\repos\Sistema Inicial Mod 03\SistemaLoja\SistemaLoja.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\ander\source\repos\Sistema Inicial Mod 03\SistemaLoja\SistemaLoja.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\ander\source\repos\Sistema Inicial Mod 03\SistemaLoja\SistemaLoja.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\ander\source\repos\Sistema Inicial Mod 03\SistemaLoja\SistemaLoja.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ander\source\repos\Sistema Inicial Mod 03\SistemaLoja\SistemaLoja.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ander\source\repos\Sistema Inicial Mod 03\SistemaLoja\SistemaLoja.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\ander\source\repos\Sistema Inicial Mod 03\SistemaLoja\SistemaLoja.Tests\bin\Debug\Owin.dll
+C:\Users\ander\source\repos\Sistema Inicial Mod 03\SistemaLoja\SistemaLoja.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ander\source\repos\Sistema Inicial Mod 03\SistemaLoja\SistemaLoja.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\ander\source\repos\Sistema Inicial Mod 03\SistemaLoja\SistemaLoja.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ander\source\repos\Sistema Inicial Mod 03\SistemaLoja\SistemaLoja.Tests\bin\Debug\EntityFramework.dll
+C:\Users\ander\source\repos\Sistema Inicial Mod 03\SistemaLoja\SistemaLoja.Tests\bin\Debug\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ander\source\repos\Sistema Inicial Mod 03\SistemaLoja\SistemaLoja.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\ander\source\repos\Sistema Inicial Mod 03\SistemaLoja\SistemaLoja.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ander\source\repos\Sistema Inicial Mod 03\SistemaLoja\SistemaLoja.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\ander\source\repos\Sistema Inicial Mod 03\SistemaLoja\SistemaLoja.Tests\bin\Debug\SistemaLoja.pdb
+C:\Users\ander\source\repos\Sistema Inicial Mod 03\SistemaLoja\SistemaLoja.Tests\bin\Debug\SistemaLoja.dll.config
+C:\Users\ander\source\repos\Sistema Inicial Mod 03\SistemaLoja\SistemaLoja.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ander\source\repos\Sistema Inicial Mod 03\SistemaLoja\SistemaLoja.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\ander\source\repos\Sistema Inicial Mod 03\SistemaLoja\SistemaLoja.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\ander\source\repos\Sistema Inicial Mod 03\SistemaLoja\SistemaLoja.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\ander\source\repos\Sistema Inicial Mod 03\SistemaLoja\SistemaLoja.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\ander\source\repos\Sistema Inicial Mod 03\SistemaLoja\SistemaLoja.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\ander\source\repos\Sistema Inicial Mod 03\SistemaLoja\SistemaLoja.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\ander\source\repos\Sistema Inicial Mod 03\SistemaLoja\SistemaLoja.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\ander\source\repos\Sistema Inicial Mod 03\SistemaLoja\SistemaLoja.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\ander\source\repos\Sistema Inicial Mod 03\SistemaLoja\SistemaLoja.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ander\source\repos\Sistema Inicial Mod 03\SistemaLoja\SistemaLoja.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ander\source\repos\Sistema Inicial Mod 03\SistemaLoja\SistemaLoja.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\ander\source\repos\Sistema Inicial Mod 03\SistemaLoja\SistemaLoja.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ander\source\repos\Sistema Inicial Mod 03\SistemaLoja\SistemaLoja.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\ander\source\repos\Sistema Inicial Mod 03\SistemaLoja\SistemaLoja.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ander\source\repos\Sistema Inicial Mod 03\SistemaLoja\SistemaLoja.Tests\bin\Debug\EntityFramework.xml
+C:\Users\ander\source\repos\Sistema Inicial Mod 03\SistemaLoja\SistemaLoja.Tests\bin\Debug\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ander\source\repos\Sistema Inicial Mod 03\SistemaLoja\SistemaLoja.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\ander\source\repos\Sistema Inicial Mod 03\SistemaLoja\SistemaLoja.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ander\source\repos\Sistema Inicial Mod 03\SistemaLoja\SistemaLoja.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\ander\source\repos\Sistema Inicial Mod 03\SistemaLoja\SistemaLoja.Tests\bin\Debug\pt-BR\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\ander\source\repos\Sistema Inicial Mod 03\SistemaLoja\SistemaLoja.Tests\obj\Debug\SistemaLoja.Tests.csprojAssemblyReference.cache
+C:\Users\ander\source\repos\Sistema Inicial Mod 03\SistemaLoja\SistemaLoja.Tests\obj\Debug\SistemaLoja.Tests.csproj.CoreCompileInputs.cache
+C:\Users\ander\source\repos\Sistema Inicial Mod 03\SistemaLoja\SistemaLoja.Tests\obj\Debug\SistemaLoja.Tests.csproj.CopyComplete
+C:\Users\ander\source\repos\Sistema Inicial Mod 03\SistemaLoja\SistemaLoja.Tests\obj\Debug\SistemaLoja.Tests.dll
+C:\Users\ander\source\repos\Sistema Inicial Mod 03\SistemaLoja\SistemaLoja.Tests\obj\Debug\SistemaLoja.Tests.pdb

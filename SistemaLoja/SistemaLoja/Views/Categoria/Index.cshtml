@@ -1,0 +1,298 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Categorias</h2>
+
+@using (Html.BeginForm())
+{
+<div class="col-xs-4 col-sm-4 col-md-12">
+    <button id="btnGetCategorias" class="btn btn-success"> <i class="glyphicon glyphicon-th-list"></i>&nbsp; Categorias</button>
+    <button id="btnGetCategoria" class="btn btn-info"><i class="glyphicon glyphicon-search"></i>&nbsp; Buscar Categoria</button>
+    <button id="btnAddCategorias" class="btn btn-default"><i class="glyphicon glyphicon-plus"></i>&nbsp; ADD Categorias</button>
+    <button id="btnUpdateCategorias" class="btn btn-info"><i class="glyphicon glyphicon-pencil"></i>&nbsp; Editar Categorias</button>
+    <button id="btnDeleteCategorias" class="btn btn-danger"><i class="glyphicon glyphicon-trash"></i>&nbsp; Deletar Categorias</button>
+    <br /><br />
+</div>
+
+    <input id="txtCategoriaId" class="form-control" Type="text" placeholder="Id Categoria" />
+    <input id="txtDescricao" class="form-control" Type="text" placeholder="Descrição" />
+
+    <br /><br />
+
+    <div id="lblMensagem"></div>
+
+}
+
+@section Scripts{
+    <script type="text/javascript">
+    $(function () {
+        $("#btnGetCategorias").on("click", function () {
+
+            $.ajax({
+                type: 'GET',
+                url: '/api/CategoriaAPI',
+                datatype: 'json',
+                cache: false,
+            })
+
+
+            .success(function (data) {
+                var saida = '';
+                saida += '<table class="table">';
+                saida += '<thread>';
+                saida += '<tr>';
+                saida += '<th>Categoria ID</th>';
+                saida += '<th>Descrição</th>';
+                saida += '</tr>';
+                saida += '</thread>';
+                saida += '<tbody>';
+                saida += '<tr>';
+                for (var i = 0; i < data.length; i++) {
+                    
+                    saida += '<td class="">' + data[i].CategoriaId + '</td>';
+                    saida += '<td>' + data[i].Descricao + '</td>';
+                    saida += '</tr>';
+                }
+                saida += '</tbody>';
+                saida += '</table>';
+                $("#lblMensagem").html(saida);
+              })
+
+             .error(function (xhr, ajaxOptions, throwError) {
+               $("#lblMensagem").html("Ocorreu um Erro");
+
+             });
+            return false;
+        });
+
+        $("#btnGetCategoria").on("click", function () {
+
+            var categoriaId = $('#txtCategoriaId').val();
+            if (categoriaId == "") {
+                $("#lblMensagem").html("É preciso informar um ID para Categoria");
+                return false;
+            }
+
+            $.ajax({
+                type: 'GET',
+                url: '/api/CategoriaAPI/' + categoriaId,
+                datatype: 'json',
+                cache: false,
+            })
+
+
+           .success(function (data) {
+               if(data != null){
+                   var saida = '';
+                   saida += '<table class="table">';
+                   saida += '<thread>';
+                   saida += '<tr>';
+                   saida += '<th>Categoria ID</th>';
+                   saida += '<th>Descrição</th>';
+                   saida += '</tr>';
+                   saida += '</thread>';
+                   saida += '<tbody>';
+                   saida += '<tr>';
+                   
+
+                       saida += '<td class="">' + data.CategoriaId + '</td>';
+                       saida += '<td>' + data.Descricao + '</td>';
+                       saida += '</tr>';
+                   
+                   saida += '</tbody>';
+                   saida += '</table>';
+               
+                   $("#lblMensagem").html(saida);
+               } else {
+                   $("#lblMensagem").html("Esta categoria não existe");
+               }
+           })
+
+            .error(function (xhr, ajaxOptions, throwError) {
+                $("#lblMensagem").html("Ocorreu um Erro");
+
+            });
+            return false;
+        });
+
+        $("#btnAddCategorias").on("click", function () {
+
+            var descricao = $('#txtDescricao').val();
+            if (descricao == "") {
+                $("#lblMensagem").html("É preciso informar a descrição!");
+                return false;
+            }
+
+            var categoria = { Descricao: descricao }
+
+            $.ajax({
+                type: 'POST',
+                url: '/api/CategoriaAPI/',
+                data: categoria,
+                datatype: 'json',
+                cache: false,
+            })
+
+
+           .success(function (data) {
+            
+               var saida = '';
+               saida += '<table class="table">';
+               saida += '<thread>';
+               saida += '<tr>';
+               saida += '<th>Categoria ID</th>';
+               saida += '<th>Descrição</th>';
+               saida += '</tr>';
+               saida += '</thread>';
+               saida += '<tbody>';
+               saida += '<tr>';
+
+
+               saida += '<td class="">' + data.CategoriaId + '</td>';
+               saida += '<td>' + data.Descricao + '</td>';
+               saida += '</tr>';
+
+               saida += '</tbody>';
+               saida += '</table>';
+
+                   $("#lblMensagem").html(saida);
+              
+           })
+
+            .error(function (xhr, ajaxOptions, throwError) {
+                $("#lblMensagem").html("Ocorreu um Erro");
+
+            });
+
+            return false;
+        });
+
+        $("#btnUpdateCategorias").on("click", function () {
+
+            var descricao = $('#txtDescricao').val();
+            if (descricao == "") {
+                $("#lblMensagem").html("É preciso informar a descrição!");
+                return false;
+            }
+
+            var categoriaId = $('#txtCategoriaId').val();
+            if (categoriaId == "") {
+                $("#lblMensagem").html("É preciso informar um ID para Categoria");
+                return false;
+            }
+
+            var categoria = { CategoriaId: categoriaId, Descricao: descricao }
+
+            $.ajax({
+                type: 'PUT',
+                url: '/api/CategoriaAPI/' + categoriaId,
+                data: categoria,
+                datatype: 'json',
+                cache: false,
+            })
+
+
+           .success(function (data) {
+
+               var saida = '';
+
+               saida += '<hr>Categoria Editada com Sucesso <br>';
+               
+
+               $("#lblMensagem").html(saida);
+
+           })
+
+            .error(function (xhr, ajaxOptions, throwError) {
+                $("#lblMensagem").html("Ocorreu um Erro");
+
+            });
+
+
+            return false;
+        });
+
+        $("#btnDeleteCategorias").on("click", function () {
+
+
+            var categoriaId = $('#txtCategoriaId').val();
+            if (categoriaId == "") {
+                $("#lblMensagem").html("É preciso informar um ID para Categoria");
+                return false;
+            }
+
+            $.ajax({
+                type: 'DELETE',
+                url: '/api/CategoriaAPI/' + categoriaId,
+                datatype: 'json',
+                cache: false,
+            })
+
+
+           .success(function (data) {
+               if (data != null) {
+                   var saida = '';
+                   saida += '<table class="table">';
+                   saida += '<thread>';
+                   saida += '<tr>';
+                   saida += '<th>Categoria ID</th>';
+                   saida += '<th>Descrição</th>';
+                   saida += '</tr>';
+                   saida += '</thread>';
+                   saida += '<tbody>';
+                   saida += '<tr>';
+
+
+                   saida += '<td class="">' + data.CategoriaId + '</td>';
+                   saida += '<td>' + data.Descricao + '</td>';
+                   saida += '</tr>';
+
+                   saida += '</tbody>';
+                   saida += '</table>';
+
+                   $("#lblMensagem").html(saida);
+               } else {
+                   $("#lblMensagem").html("Esta categoria não existe");
+               }
+           })
+
+            .error(function (xhr, ajaxOptions, throwError) {
+                $("#lblMensagem").html("Ocorreu um Erro");
+
+            });
+
+            return false;
+        });
+
+        $(document).ajaxStart(function () {
+            $("#loading").show();
+        });
+
+        $(document).ajaxStop(function () {
+            $("#loading").hide();
+        });
+
+    });
+    </script>
+
+    }
+
+<style type="text/css">
+    #loading {
+        display: none;
+        background-color: gray;
+        z-index: 999999;
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        text-align: center;
+        padding-top: 300px;
+        filter: alpha(opacity=75);
+        opacity: 0.75;
+    }
+</style>
+<div id="loading"><img src="~/Images/loader.gif" /></div>
